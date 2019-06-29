@@ -1,0 +1,15 @@
+case 1
+student.csv dept1.csv gt1.txt
+
+case 2
+student.csv dept2.csv gt2.txt
+
+case 3
+student.csv dept3.csv gt3.txt
+
+case 4
+student.csv dept4.csv gt4.txt
+
+case 5
+student.csv dept5.csv gt5.txt
+
